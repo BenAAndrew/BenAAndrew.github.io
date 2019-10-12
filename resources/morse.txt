@@ -1,8 +1,5 @@
-#define LIGHT_THRESHOLD 260
-//note: This value will change between LDR's
 #define ALPHABET 26
 #define ASCII 97
-#define LONG 8000
 #define LDR A0
 
 String letters[ALPHABET]={
