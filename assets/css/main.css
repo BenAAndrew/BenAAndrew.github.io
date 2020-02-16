@@ -200,7 +200,7 @@ input, select, textarea {
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
-		letter-spacing: 0.35em;
+		letter-spacing: 0.05em;
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3180,7 +3180,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: black;
 			}
 
 				#footer > .inner .copyright a {
