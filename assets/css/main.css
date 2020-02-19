@@ -2301,6 +2301,11 @@ input, select, textarea {
 			display: block;
 		}
 
+		.image video {
+			border-radius: 4px;
+			display: block;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
